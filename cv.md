@@ -3,11 +3,13 @@ Margar Ag
 
 ## Contact Info
 **Phone number:** 8 (999) 111-22-33
+
 **Email:** Makar-ag007@rambler.ru
 
 ## Summary
 **Personal qualities:** Stress-resistant, able to search for information and can conduct business conversations.
-**Programming skill** I have experience programming in js and php. My main language is php with bitrix framefork, also i learn a laravel framefork for myself. In frontend I know vanila js and vue.js library with commerce experience.
+
+**Programming skill:** I have experience programming in js and php. My main language is php with bitrix framefork, also i learn a laravel framefork for myself. In frontend I know vanila js and vue.js library with commerce experience.
 
 ## My skills
 - PHP, Bitrix, Laravel

@@ -1,1 +1,1 @@
-# rsschool-cv
+https://margarag.github.io/rsschool-cv/cv
